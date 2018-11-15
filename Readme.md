@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/DynamicShowHidePreview/Default.aspx) (VB: [Default.aspx.vb](./VB/DynamicShowHidePreview/Default.aspx.vb))
+* [Default.aspx.cs](./CS/DynamicShowHidePreview/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DynamicShowHidePreview/Default.aspx.vb))
+<!-- default file list end -->
 # How to dynamically hide or show a preview row
 
 
