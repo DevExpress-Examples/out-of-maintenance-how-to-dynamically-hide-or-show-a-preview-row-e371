@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/DynamicShowHidePreview/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DynamicShowHidePreview/Default.aspx.vb))
 <!-- default file list end -->
 # How to dynamically hide or show a preview row
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e371/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to switch the preview visibility, based on a check box embedded into a grid cell.</p>
